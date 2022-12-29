@@ -119,6 +119,9 @@ docker-compose --version
 
 ## Q Network Dosyalarını İndiriyoruz
 ```
+apt install screen
+```
+```
 screen -S qnetwork
 git clone https://gitlab.com/q-dev/testnet-public-tools
 ```
